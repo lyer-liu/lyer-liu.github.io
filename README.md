@@ -26,6 +26,7 @@
 
 | 个人微信 | 描述 |
 | ---- | ---- |
+<img src="https://github.com/lyer-liu/lyer-liu.github.io/blob/master/img/20190920095936.jpg?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
 |![二维码](https://github.com/lyer-liu/lyer-liu.github.io/blob/master/img/20190920095936.jpg =200x) | 技术交流与学习，请加我个人微信并备注来源。|
 
 
