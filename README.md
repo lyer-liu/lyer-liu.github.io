@@ -23,3 +23,5 @@
 [spark sql元数据问题](https://github.com/pengyancheng/blog/issues/2)
 
 [Spark 调优  (Tuning Spark 中文版)](https://github.com/pengyancheng/blog/issues/3)
+
+![二维码](https://github.com/lyer-liu/lyer-liu.github.io/blob/master/img/20190920095936.jpg "二维码")
