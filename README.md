@@ -26,6 +26,6 @@
 
 | 个人微信 | 描述 |
 | ---- | ---- |
-|![二维码](https://github.com/lyer-liu/lyer-liu.github.io/blob/master/img/20190920095936.jpg "二维码") | 技术交流与学习，请加我个人微信并备注来源。|
+|![二维码](https://github.com/lyer-liu/lyer-liu.github.io/blob/master/img/20190920095936.jpg =200) | 技术交流与学习，请加我个人微信并备注来源。|
 
 
