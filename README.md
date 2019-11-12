@@ -9,6 +9,10 @@
 
 ---
 
+## JAVA
+
+[各种锁汇总，乐观锁、悲观锁、分布式锁、可重入锁、互斥锁、读写锁、分段锁、类锁、行级锁等](https://github.com/aalansehaiyang/Lock-Learning) 转载文章
+
 ## 前端
 
 [精读前后端渲染之争](https://github.com/camsong/blog/issues/8#issue-221940928) 转载文章
