@@ -6,9 +6,11 @@
 
 ## JAVA
 
-[各种锁汇总，乐观锁、悲观锁、分布式锁、可重入锁、互斥锁、读写锁、分段锁、类锁、行级锁等](https://github.com/aalansehaiyang/Lock-Learning)  转载
+[使用Java实现的设计模式](https://github.com/iluwatar/java-design-patterns)  转载
 
 [Java高级工程师进阶扫盲(面试必备)](https://github.com/doocs/advanced-java)  转载
+
+[各种锁汇总，乐观锁、悲观锁、分布式锁、可重入锁、互斥锁、读写锁、分段锁、类锁、行级锁等](https://github.com/aalansehaiyang/Lock-Learning)  转载
 
 ## 前端
 
