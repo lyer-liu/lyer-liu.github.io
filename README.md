@@ -18,6 +18,8 @@
 
 ## 大数据
 
+[大数据入门指南](https://github.com/lyer-liu/BigData-Notes) 转载
+
 [Hbase架构](https://github.com/pengyancheng/blog/issues/1) 转载
  
 [spark sql元数据问题](https://github.com/pengyancheng/blog/issues/2) 转载
