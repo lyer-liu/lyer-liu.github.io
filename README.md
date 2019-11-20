@@ -36,6 +36,9 @@
 
 [eladmin基于Spring Boot2.1.0、Jpa、Spring Security、redis、Vue的前后端分离的后台管理系统](https://github.com/elunez/eladmin) git地址
 
+[Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) git地址
+
+
 
 
 
