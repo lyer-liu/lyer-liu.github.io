@@ -34,15 +34,13 @@
 
 ## github资源收集
 
-[mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall) git地址
-
-[eladmin基于Spring Boot2.1.0、Jpa、Spring Security、redis、Vue的前后端分离的后台管理系统](https://github.com/elunez/eladmin) git地址
-
 [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) git地址
 
 [GitHub每月优秀项目集](https://hellogithub.com/) git地址
 
+[mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall) git地址
 
+[eladmin基于Spring Boot2.1.0、Jpa、Spring Security、redis、Vue的前后端分离的后台管理系统](https://github.com/elunez/eladmin) git地址
 
 
 
