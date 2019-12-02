@@ -35,6 +35,8 @@
 
 [一款简洁且支持多平台、高亮的http cli](https://github.com/jakubroztocil/httpie) git地址
 
+[一款用于识别文件语种的工具](https://github.com/saffsd/langid.py) git地址
+
 [A collection of .gitignore templates](https://github.com/github/gitignore) git地址
 
 ## github资源收集
