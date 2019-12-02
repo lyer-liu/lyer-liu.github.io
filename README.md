@@ -1,5 +1,5 @@
 
-***lyer 关于Java、前端、大数据以及全栈***
+#lyer 关于Java、前端、大数据以及全栈
 
 ---
 
@@ -31,13 +31,17 @@
 
 [Spark 调优  (Tuning Spark 中文版)](https://github.com/pengyancheng/blog/issues/3) 转载
 
+## 优秀工具集
+
+[一款简洁且支持多平台、高亮的http cli](https://github.com/jakubroztocil/httpie) git地址
+
+[A collection of .gitignore templates](https://github.com/github/gitignore) git地址
+
 ## github资源收集
 
 [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) git地址
 
 [GitHub每月优秀项目集](https://hellogithub.com/) git地址
-
-[A collection of .gitignore templates](https://github.com/github/gitignore) git地址
 
 [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall) git地址
 
