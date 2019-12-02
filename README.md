@@ -18,9 +18,9 @@
 
 [angular2页面过大性能优化（从11m到1m的过程）](https://github.com/pengyancheng/blog/wiki/angular2%E9%A1%B5%E9%9D%A2%E8%BF%87%E5%A4%A7%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96%EF%BC%88%E4%BB%8E11m%E5%88%B01m%E7%9A%84%E8%BF%87%E7%A8%8B%EF%BC%89) 转载
 
-[省级、地级、县级、乡级和村级JSON](https://github.com/modood/Administrative-divisions-of-China) git地址
-
 [一套阿里 React 动效解决方案,让动画更简单.](https://github.com/ant-design/ant-motion) git地址
+
+[省级、地级、县级、乡级和村级JSON](https://github.com/modood/Administrative-divisions-of-China) git地址
 
 ## 大数据
 
@@ -37,6 +37,8 @@
 [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) git地址
 
 [GitHub每月优秀项目集](https://hellogithub.com/) git地址
+
+[A collection of .gitignore templates](https://github.com/github/gitignore) git地址
 
 [mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现](https://github.com/macrozheng/mall) git地址
 
