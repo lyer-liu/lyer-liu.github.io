@@ -20,7 +20,7 @@
 
 [省级、地级、县级、乡级和村级JSON](https://github.com/modood/Administrative-divisions-of-China) git地址
 
-[动画设计规范和Ant设计组件](https://github.com/ant-design/ant-motion) git地址
+[一套阿里 React 动效解决方案,让动画更简单.](https://github.com/ant-design/ant-motion) git地址
 
 ## 大数据
 
