@@ -40,6 +40,9 @@
 
 [Chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes) git地址
 
+[GitHub每月优秀项目集](https://hellogithub.com/) git地址
+
+
 
 
 
