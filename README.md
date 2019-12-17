@@ -7,6 +7,8 @@
 
 [使用Java实现的设计模式](https://github.com/iluwatar/java-design-patterns)  转载
 
+[后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)  git地址
+
 [Spring Boot & Shiro、Spring Cloud、Spring Security & Spring Security OAuth2](https://github.com/wuyouzhuguli/SpringAll)  转载
 
 [Java高级工程师进阶扫盲(面试必备)](https://github.com/doocs/advanced-java)  转载
