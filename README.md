@@ -60,6 +60,10 @@
 
 [eladmin基于Spring Boot2.1.0、Jpa、Spring Security、redis、Vue的前后端分离的后台管理系统](https://github.com/elunez/eladmin) git地址
 
+## 学习资料
+
+[清华大学操作系统课程](https://github.com/kiukotsu/ucore) git地址
+
 
 
 
