@@ -46,7 +46,9 @@
 
 [一款用于识别文件语种的工具](https://github.com/saffsd/langid.py) git地址
 
-[一款优秀的内网穿透工具](https://github.com/inconshreveable/ngrok) git地址
+[一款优秀的内网穿透工具-ngrok](https://github.com/inconshreveable/ngrok) git地址
+
+[一款优秀的内网穿透工具-inlets](https://github.com/inlets/inlets/blob/master/README_CN.md) git地址
 
 [A collection of .gitignore templates](https://github.com/github/gitignore) git地址
 
@@ -63,6 +65,8 @@
 ## 学习资料
 
 [清华大学操作系统课程](https://github.com/kiukotsu/ucore) git地址
+
+
 
 
 
